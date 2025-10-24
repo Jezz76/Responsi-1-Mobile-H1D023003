@@ -137,14 +137,3 @@ app/src/main/
 
 ---
 
-## Cara Menjalankan
-
-```bash
-cd c:\Users\jeskr\AndroidStudioProjects\Responsi1MobileH1D023003
-
-./gradlew assembleDebug
-
-adb install app/build/outputs/apk/debug/app-debug.apk
-```
-
----
