@@ -11,6 +11,12 @@
 
 ---
 
+## Video Demo
+
+https://github.com/user-attachments/assets/f8800aa9-d5c5-4dbf-808f-f3b137c1284a
+
+---
+
 ## Alur Data
 
 ### API Setup
@@ -140,11 +146,5 @@ cd c:\Users\jeskr\AndroidStudioProjects\Responsi1MobileH1D023003
 
 adb install app/build/outputs/apk/debug/app-debug.apk
 ```
-
----
-
-## Video Demo
-
-[Link video demo akan ditambahkan di sini]
 
 ---
